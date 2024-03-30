@@ -5,12 +5,12 @@ To use this you need to edit your own exercises and workouts.
 There is a basic example workout with two exercises included.
 
 There are three different views/pages:
-- Overview / a list of workouts that have been performed. This includes a heatmap.
-- A workout view. Includes a list of remaining and performed exercies. 
-  - Has en effort graph at the bottom
+- Overview / a list of workouts that has been performed. This includes a heatmap.
+- A workout view. Includes a list of remaining and performed exercise.
+  - Has an effort graph at the bottom
 - An exercise view that shows instructions and the last few times this exercise was performed.
-  - Has en effort/weight graph at the bottom
-  
+  - Has an effort/weight graph at the bottom
+
 ## Usage instructions
 1. Open the "Workout list" note
 2. Press the "Add workout" button
@@ -19,10 +19,10 @@ There are three different views/pages:
 5. Press the "Log" button
 6. Select an exercise from the list that appears.
   - The list includes:
-    - "Start" - Will be the only item to appear in the list when no exercies have been logged. Will log the current time as start of the workout
+    - "Start" - Will be the only item to appear in the list when no exercise has been logged. Will log the current time as start of the workout
     - Remaining exercises (performed ones are filtered out)
     - "Custom" - Log a custom exercise
-    - "Show all exercises" - removes the filter and shows all exercies regardless of if they have been logged during this workout
+    - "Show all exercises" - removes the filter and shows all exercise regardless of if they have been logged during this workout
 
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/1998726/212776351-fd77ebb8-7c00-413f-b4c1-eb435db52e57.png">
 
